@@ -1,0 +1,13 @@
+student_name = "Samaya Sartin"
+current_gpa = 3.50
+study_hours = 12
+social_points = 68
+stress_level = 40
+
+print(f"Welcome to my game, {student_name}!")
+print(" ----- Your current stats are: ----- ")
+print(f" Current GPA: {current_gpa:.2f}")
+print(f" Student Hours: {study_hours}")
+print(f" Social Points: {social_points}")
+print(f" Stress Level: {stress_level}")
+print("------------------------------------")
